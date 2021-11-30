@@ -62,7 +62,7 @@ print(fib(9))
 
 ## Todo List
 
-If you'd like to build out this language, you may use this todo list as a guide:
+
 
 * parser
     * define moo lexer
