@@ -89,3 +89,7 @@ If you'd like to build out this language, you may use this todo list as a guide:
     * lambda function
     * comments
 * code challenges
+
+## Demo video
+
+https://user-images.githubusercontent.com/80563363/143986106-845f4ee1-f695-43d7-83f4-ee48c673f541.mp4
